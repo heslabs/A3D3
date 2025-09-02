@@ -6,33 +6,33 @@ The National Science Foundation (NSF), under the Harnessing the Data Revolution 
 ### The A3D3 Team - Institutions
 https://a3d3.ai/team/#institutions
 
-* University of Washington, Seattle
+* **University of Washington, Seattle**
     * Shih-Chieh Hsu (Associate Professor, Phys), Scott Hauck (Professor, ECE), Amy Orsborn (Assistant Professor, ECE & Bioeng), Eli Shlizerman (Associate Professor, ECE & AMath
-* Massachusetts Institute of Technology
+* **Massachusetts Institute of Technology**
     * Phil Harris (Assistant Professor, Phys), Erik Katsavounidis (Senior Research Scientist, Phys), Song Han (Assistant Professor, EECS)
-* California Institute of Technology
+* **California Institute of Technology**
     * Matthew Graham (Research Professor, Astro)
-* Duke University
+* **Duke University**
     * Kate Scholberg (Professor, Phys)
-* University of California San Diego
+* **University of California San Diego**
     * Javier Duarte (Assistant Professor, Phys)
-* University of Illinois Urbana-Champaign
+* **University of Illinois Urbana-Champaign**
     * Mark Neubauer (Professor, Phys), Deming Chen (Professor, EE)
-* University of Minnesota Twin Cities
+* **University of Minnesota Twin Cities**
     * Michael Coughlin (Assistant Professor, Phys)
-* Purdue University
+* **Purdue University**
     * Mia Liu (Assistant Professor, Phys), Maria Cristina Makin (Assistant Professor, BioEng)
-* University of Wisconsin–Madison
+* **University of Wisconsin–Madison**
     * Kael Hanson (Professor, WIPAC), Benedikt Riedel (Research Scientist, WIPAC), Jeff Weber (Engineer, WIPAC)
-* Georgia Institute of Technology
+* **Georgia Institute of Technology**
     * Pan Li (Assistant Professor, ECE)
-* Institute of Electronics, National Yang Ming Chiao Tung University
+* **Institute of Electronics, National Yang Ming Chiao Tung University**
     * Bo-Cheng Lai (Professor)
-* University of Pennsylvania
+* **University of Pennsylvania**
     * Dylan Rankin (Assistant Professor, Phys)
-* Lawrence Berkeley National Laboratory
+* **Lawrence Berkeley National Laboratory**
     * Xiangyang Ju (Computing System Engineer, Scientific Data Division)
-* Westmont College
+* **Westmont College**
     * Benjamin Carlson (Assistant Professor, Phys)
 
 
