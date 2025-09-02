@@ -1,7 +1,7 @@
 # A3D3
 
 ---
-## A3D3: Accelerated AI Algorithms for Data-Driven Discovery 
+# A3D3: Accelerated AI Algorithms for Data-Driven Discovery 
 https://a3d3.ai/ \
 The National Science Foundation (NSF), under the Harnessing the Data Revolution (HDR) program, is providing funding to establish the Accelerated AI Algorithms for Data-Driven Discovery (A3D3) Institute, a multi-disciplinary and geographically distributed entity with the primary mission to lead a paradigm shift in the application of real-time artificial intelligence (AI) at scale to advance scientific knowledge and accelerate discovery.
 
@@ -44,9 +44,19 @@ https://a3d3.ai/team/#institutions \
 https://a3d3.ai/activities/hardware-and-algorithm-codevelopment/ \
 The Hardware and Algorithm Co-development (HAC) area is dedicated to pioneering novel AI algorithms and hardware support to serve various domain thrusts. Our mission is to craft AI algorithms capable of navigating the complexities of scientific data, addressing issues such as data irregularity, vast data volumes, limited labeling, and the need for robust model generalization during real-time experiments. 
 
+---
+### Heterogeneous Systems
+https://a3d3.ai/activities/heterogenous-systems/ \
+Facilitating ML-focused science pipelines within the national distributed cyberinfrastructure ecosystem \
+ML-based science applications require a mix of computational resources (CPU, GPUs, FPGAs, etc.), i.e. heterogeneous compute, for best performance. These computational resources can be difficult to access by, not available to, or cost-effective to invest into for every researcher. Within the national cyberinfrastructure (CI) ecosystem, the heterogeneous computing resources are available. At the same time, they are distributed across various facilities with
 
 ---
-## The A3D3 - Science Collaborations
+### Targeted Systems
+https://a3d3.ai/activities/targeted-systems/ \
+The goal of the targeted systems subgroup is to develop common tools and infrastructure for the deployment of ML algorithms in a variety of dedicated science experiment systems, including those with stringent constraints on latency, resources, and throughput, and implemented in custom hardware, like FPGAs and ASICs. A variety of scientific applications are in development using these tools, including low-latency level-1 trigger algorithms (FPGA) and on-detector (ASIC) algorithms in HEP, signal reconstruction and prediction from brain electrocorticography (ECoG), anomaly detection, and multimodal denoising and feature detection in neuroscience, and front-end alert systems for gravitational wave detections in MMA. Members of the group develop open-source tools, including hls4ml, QONNX, PyLog, and HIDA.
+
+---
+# The A3D3 - Science Collaborations
 
 ### FastML Lab: Real-time and accelerated ML for fundamental sciences
 https://fastmachinelearning.org/ \
