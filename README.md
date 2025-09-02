@@ -29,7 +29,7 @@ https://a3d3.ai/team/#institutions \
 * Georgia Institute of Technology
     * Pan Li (Assistant Professor, ECE)
 * Institute of Electronics, National Yang Ming Chiao Tung University
-    * Bo-Cheng Lai(Professor)
+    * Bo-Cheng Lai (Professor)
 * University of Pennsylvania
     * Dylan Rankin (Assistant Professor, Phys)
 * Lawrence Berkeley National Laboratory
