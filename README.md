@@ -39,36 +39,32 @@ https://a3d3.ai/team/#institutions
 ---
 ## Proejct Area
 
----
 ### Hardware and Algorithm Co-development
 https://a3d3.ai/activities/hardware-and-algorithm-codevelopment/ \
 The Hardware and Algorithm Co-development (HAC) area is dedicated to pioneering novel AI algorithms and hardware support to serve various domain thrusts. Our mission is to craft AI algorithms capable of navigating the complexities of scientific data, addressing issues such as data irregularity, vast data volumes, limited labeling, and the need for robust model generalization during real-time experiments. 
 
----
 ### Heterogeneous Systems
 https://a3d3.ai/activities/heterogenous-systems/ \
 Facilitating ML-focused science pipelines within the national distributed cyberinfrastructure ecosystem \
 ML-based science applications require a mix of computational resources (CPU, GPUs, FPGAs, etc.), i.e. heterogeneous compute, for best performance. These computational resources can be difficult to access by, not available to, or cost-effective to invest into for every researcher. Within the national cyberinfrastructure (CI) ecosystem, the heterogeneous computing resources are available. At the same time, they are distributed across various facilities with
 
----
 ### Targeted Systems
 https://a3d3.ai/activities/targeted-systems/ \
 The goal of the targeted systems subgroup is to develop common tools and infrastructure for the deployment of ML algorithms in a variety of dedicated science experiment systems, including those with stringent constraints on latency, resources, and throughput, and implemented in custom hardware, like FPGAs and ASICs. A variety of scientific applications are in development using these tools, including low-latency level-1 trigger algorithms (FPGA) and on-detector (ASIC) algorithms in HEP, signal reconstruction and prediction from brain electrocorticography (ECoG), anomaly detection, and multimodal denoising and feature detection in neuroscience, and front-end alert systems for gravitational wave detections in MMA. Members of the group develop open-source tools, including hls4ml, QONNX, PyLog, and HIDA.
 
 ---
 ## The A3D3 - Industry Partners
-
----
-## The A3D3 - Science Collaborations
 * Xilinx: https://www.amd.com/en.html
 * Amazon Web Services (AWS): https://aws.amazon.com/
 * Microsoft: https://www.microsoft.com/en-us/
 * Google Cloud Platform: https://cloud.google.com/
 
+---
+## The A3D3 - Science Collaborations
+
 ### FastML Lab: Real-time and accelerated ML for fundamental sciences
 https://fastmachinelearning.org/ \
 Fast ML Lab is a research collective of physicists, engineers, and computer scientists interested in deploying machine learning algorithms for unique and challenging scientific applications. Our projects range from real-time, on-detector and low latency machine learning applications to high-throughput heterogeneous computing big data challenges. 
-
 
 ### CERN Accelerating science
 https://home.cern/about/who-we-are/our-mission \
