@@ -37,7 +37,7 @@ https://a3d3.ai/team/#institutions
 
 
 ---
-## Proejct Area
+## Project Area
 
 ### Hardware and Algorithm Co-development
 https://a3d3.ai/activities/hardware-and-algorithm-codevelopment/ \
