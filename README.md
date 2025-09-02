@@ -36,6 +36,8 @@ https://a3d3.ai/team/#institutions
     * Benjamin Carlson (Assistant Professor, Phys)
 
 
+---
+## Proejct Area
 
 ---
 ### Hardware and Algorithm Co-development
