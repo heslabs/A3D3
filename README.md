@@ -1,6 +1,3 @@
-# A3D3
-
----
 # A3D3: Accelerated AI Algorithms for Data-Driven Discovery 
 https://a3d3.ai/ \
 The National Science Foundation (NSF), under the Harnessing the Data Revolution (HDR) program, is providing funding to establish the Accelerated AI Algorithms for Data-Driven Discovery (A3D3) Institute, a multi-disciplinary and geographically distributed entity with the primary mission to lead a paradigm shift in the application of real-time artificial intelligence (AI) at scale to advance scientific knowledge and accelerate discovery.
